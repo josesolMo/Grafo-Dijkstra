@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Grafo-Dijkstra.dir/main.cpp.o  -o Grafo-Dijkstra 
